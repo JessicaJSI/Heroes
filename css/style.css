@@ -83,6 +83,13 @@ body{
   left: 30%;
   top: -25%;
 }
+.card__robin{
+  width: 5  0%;
+  border-radius: 50%;
+  position: absolute;
+  left: 30%;
+  top: -25%;
+}
 .card__title{
   font-size: 30px; /* 1.8rem*/
   font-weight: inherit;
